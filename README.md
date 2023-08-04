@@ -12,7 +12,7 @@ A dark blue Chrome theme inspired by a starry night sky.
 
 ## Screenshots of theme
 
-[Screenshots](https://drive.google.com/drive/folders/16RmS3-Xp_QNe9DE4sYfVjJ0_m_PJd4sR?usp=drive_link)
+[Screenshots](https://drive.google.com/drive/folders/16RmS3-Xp_QNe9DE4sYfVjJ0_m_PJd4sR?usp=sharing)
 
 </br>
 
