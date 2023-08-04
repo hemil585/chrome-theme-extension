@@ -12,8 +12,9 @@ A dark blue Chrome theme inspired by a starry night sky.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+[Screenshot 1](https://app.gemoo.com/share/image-annotation/546112315796635648?codeId=DW4JaGKGqOJeQ)
+</br>
+[Screenshot 2](https://app.gemoo.com/share/image-annotation/546112318409678848?codeId=DW4JaGKGqOJeQ)
 
 ## Credits
 
