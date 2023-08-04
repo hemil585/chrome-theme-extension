@@ -1,0 +1,40 @@
+{
+	"name": "Starry Night Theme",
+	"short_name": "Starry Night",
+	"manifest_version": 3,
+	"version": "1.0",
+	"description": "A dark blue Chrome theme inspired by a starry night sky.",
+	"theme": {
+	  "images": {
+		"theme_frame": "images/theme.png",
+		"theme_toolbar": "images/theme.png",
+		"theme_tab_background": "images/theme.png"
+	  },
+	  "colors": {
+		"frame": [16, 24, 32],
+		"frame_incognito": [16, 24, 32],
+		"frame_inactive": [16, 24, 32],
+		"frame_incognito_inactive": [16, 24, 32],
+		"toolbar": [16, 24, 32],
+		"tab_text": [255, 255, 255],
+		"tab_background_text": [180, 180, 180],
+		"bookmark_text": [180, 180, 180],
+		"ntp_background": [16, 24, 32],
+		"ntp_text": [180, 180, 180],
+		"ntp_button": [16, 24, 32]
+	  },
+	  "tints": {
+		"buttons": [16, 24, 32],
+		"frame_inactive": [-1, -1, -1],
+		"frame_incognito_inactive": [-1, -1, -1],
+		"background_tab": [-1, -1, -1]
+	  }
+	},
+	"icons": {
+	  "16": "icons/16.png",
+	  "32": "icons/32.png",
+	  "48": "icons/48.png",
+	  "128": "icons/128.png"
+	}
+  }
+  
