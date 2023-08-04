@@ -10,11 +10,11 @@ A dark blue Chrome theme inspired by a starry night sky.
 4. Enable "Developer mode" in the top-right corner.
 5. Click "Load unpacked" and select the theme files.
 
-## Screenshots
+## Screenshots of theme
 
-[Screenshot 1](https://app.gemoo.com/share/image-annotation/546112315796635648?codeId=DW4JaGKGqOJeQ)
+[Screenshots](https://drive.google.com/drive/folders/16RmS3-Xp_QNe9DE4sYfVjJ0_m_PJd4sR?usp=drive_link)
+
 </br>
-[Screenshot 2](https://app.gemoo.com/share/image-annotation/546112318409678848?codeId=DW4JaGKGqOJeQ)
 
 ## Credits
 
