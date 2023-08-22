@@ -4,24 +4,22 @@ A dark blue Chrome theme inspired by a starry night sky.
 
 ## Installation
 
-1. Download the theme files as a zip from the repository.
-2. Extract the downloaded zip file to a location on your computer.
-3. Open Google Chrome.
-4. Go to `chrome://extensions/Manage Extensions`.
-5. Enable "Developer mode" in the top-right corner.
-6. Click the **Load unpacked** button.
-7. Navigate to the folder you extracted earlier and **select the entire folder**.
+1. Download the theme files from the repository.
+2. Open Google Chrome.
+3. Go to `chrome://extensions/`.
+4. Enable "Developer mode" in the top-right corner.
+5. Click "Load unpacked" and select the theme files.
 
-**Important:** To make the theme permanent, follow the next step:
+## Screenshots
 
-8. After adding the theme, **turn off Developer mode** to ensure the theme remains even after restarting your PC/Laptop.
+<div align="center">
+<img src="https://github.com/hemil585/chrome-theme-extension/assets/117675167/4fb1297c-fe80-401c-844a-1952ed957ae3" />
 
+<br />
+<br />
+<br />
 
-## Screenshots of theme
-
-[Screenshots](https://drive.google.com/drive/folders/16RmS3-Xp_QNe9DE4sYfVjJ0_m_PJd4sR?usp=sharing)
-
-</br>
+<img src="https://github.com/hemil585/chrome-theme-extension/assets/117675167/5e4d5ba8-f8bb-4188-99d5-61f7c0d914bf" /></div>
 
 ## Credits
 
